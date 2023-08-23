@@ -46,4 +46,5 @@ proc myProc2 {args} {
 }
 
 myProc2 a b c
+# a b c
 ```
